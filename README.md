@@ -24,7 +24,7 @@ pip install scikit-learn
 ## Usage
 Run as
 ``` 
-python colorization.py `image name`
+python colorization.py `image_name_without_extension`
 ```
 
 ## Contributing
